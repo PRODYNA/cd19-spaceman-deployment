@@ -1,0 +1,4 @@
+[
+    {"op": "remove", "path": "/spec/ports/0/nodePort"},
+    {"op": "replace", "path": "/spec/type", "value": "ClusterIP"}
+]
